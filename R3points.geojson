@@ -1,0 +1,998 @@
+{
+  "type": "FeatureCollection",
+  "name": "rr1_rr2_oo_merged",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:EPSG::32636"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 150.0,
+        "angle": 299.46887004193354,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484722.1932843641,
+          2674859.756573374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 300.0,
+        "angle": 299.46887004193354,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484591.59981768974,
+          2674933.5491642076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 450.0,
+        "angle": 310.47652784086466,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484471.0910540632,
+          2675022.5513493702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 600.0,
+        "angle": 310.89098286201903,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484357.17322274786,
+          2675120.1346571008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 750.0,
+        "angle": 306.73164542994147,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484241.44582551915,
+          2675215.4262947538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 900.0,
+        "angle": 303.25436657434858,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484119.8499083094,
+          2675303.1664065747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 1050.0,
+        "angle": 281.72511201448697,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          483986.06671632727,
+          2675367.9251830606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 1200.0,
+        "angle": 272.10994284814217,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          483836.75282152666,
+          2675379.5233281622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 150.0,
+        "angle": 300.29644817617157,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484738.4933231414,
+          2674889.160121027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 300.0,
+        "angle": 300.73826446756914,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484609.26441788755,
+          2674965.3149361074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 450.0,
+        "angle": 310.70013717979077,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484489.384985164,
+          2675054.5641536876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 600.0,
+        "angle": 310.50461339580175,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484375.36719973176,
+          2675152.0316857388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 750.0,
+        "angle": 306.32682595196479,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484258.3477675641,
+          2675245.805746517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 900.0,
+        "angle": 300.92892627500584,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484135.93228118046,
+          2675332.4650330334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 1050.0,
+        "angle": 287.84020430728799,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484002.47096174676,
+          2675399.4650855926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 1200.0,
+        "angle": 268.12212255226052,
+        "group": "rr1",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          483853.63959474175,
+          2675410.0801672372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 0.0,
+        "angle": 297.47443162606123,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484733.54062992445,
+          2674877.8523327387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 60.0,
+        "angle": 300.16006083792462,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484681.3746162039,
+          2674907.456565751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 120.0,
+        "angle": 300.00620573102543,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484629.4859931594,
+          2674937.5824303687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 180.0,
+        "angle": 302.39984017434551,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484577.66914060456,
+          2674967.821545933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 240.0,
+        "angle": 311.77245323092615,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484529.0264323959,
+          2675002.838224662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 300.0,
+        "angle": 309.63436907340105,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484483.7949918901,
+          2675042.246426647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 360.0,
+        "angle": 310.785821477166,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484438.09577017894,
+          2675081.1238135644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 420.0,
+        "angle": 310.83638737983597,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484392.67595878115,
+          2675120.3289174517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 480.0,
+        "angle": 310.42443688581864,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484347.2612967708,
+          2675159.5394416084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 540.0,
+        "angle": 310.87127717717789,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484301.6667040022,
+          2675198.5405999003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "distance": 600.0,
+        "angle": 305.80171177310336,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484254.4124417162,
+          2675235.4196447897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 0.0,
+        "angle": 299.09688879940586,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484725.54065812915,
+          2674869.9090983323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 60.0,
+        "angle": 300.08415655857846,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484673.5115278209,
+          2674899.780902626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 120.0,
+        "angle": 299.21129225748996,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484621.4162061058,
+          2674929.5446063625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 180.0,
+        "angle": 300.69551982346326,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484569.7294956325,
+          2674960.0145423515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 240.0,
+        "angle": 310.12072621706812,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484521.77441673865,
+          2674995.94926276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 300.0,
+        "angle": 311.34777721978639,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484476.3548405971,
+          2675035.1423118664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 360.0,
+        "angle": 310.26794114393527,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484430.5547181995,
+          2675073.8948819227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 420.0,
+        "angle": 309.57190281400136,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484384.502756184,
+          2675112.3537843204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 480.0,
+        "angle": 311.23596513494988,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484339.282233416,
+          2675151.7880382333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 540.0,
+        "angle": 311.11816272154948,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484294.1035241891,
+          2675191.270707561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "distance": 600.0,
+        "angle": 307.17092348920238,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484247.18530173873,
+          2675228.634017867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "distance": 0.0,
+        "angle": 304.82448915688195,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484166.73411762057,
+          2675298.162907627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "distance": 60.0,
+        "angle": 302.20099187567172,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484117.45653998776,
+          2675332.384133649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "distance": 120.0,
+        "angle": 296.56505117764078,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484065.5489026457,
+          2675362.344119689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "distance": 180.0,
+        "angle": 284.60846693407285,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484009.2807059571,
+          2675382.9932052176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "distance": 240.0,
+        "angle": 280.03312055465824,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          483950.8453883292,
+          2675396.409021559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "distance": 300.0,
+        "angle": 269.16362467484845,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          483891.087762682,
+          2675400.2145980406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "distance": 0.0,
+        "angle": 307.010673233918,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484161.2305909245,
+          2675288.6310263388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "distance": 60.0,
+        "angle": 304.40847225206988,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484112.13330225344,
+          2675323.0924909166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "distance": 120.0,
+        "angle": 294.64677085177487,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484059.86477593315,
+          2675352.3081136323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "distance": 180.0,
+        "angle": 282.95758009398162,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484003.70451434026,
+          2675373.2875177292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "distance": 240.0,
+        "angle": 276.7467027201991,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          483945.02103672735,
+          2675385.6860701134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "distance": 300.0,
+        "angle": 271.51490717249715,
+        "group": "rr2",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          483885.21575046604,
+          2675389.6208077422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "distance": 0.0,
+        "angle": 298.64761645679698,
+        "group": "oo",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484734.87299107754,
+          2674871.5970867728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "distance": 150.0,
+        "angle": 300.75287527405436,
+        "group": "oo",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484604.86871677602,
+          2674946.3798644338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "distance": 300.0,
+        "angle": 311.23895575414031,
+        "group": "oo",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484484.27507308795,
+          2675034.8597782278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "distance": 450.0,
+        "angle": 310.6127871283249,
+        "group": "oo",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484370.73851053079,
+          2675132.8819513163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "distance": 600.0,
+        "angle": 306.52885536641912,
+        "group": "oo",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484255.56119129102,
+          2675228.8856248879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "distance": 0.0,
+        "angle": 304.92267586989504,
+        "group": "oo",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484167.94989448832,
+          2675290.8783880598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "distance": 150.0,
+        "angle": 291.80140948608306,
+        "group": "oo",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          484039.36567293183,
+          2675367.0474267346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "distance": 300.0,
+        "angle": 270.0,
+        "group": "oo",
+        "sign_size": "4 * 3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          483893.11480269168,
+          2675395.5114864665
+        ]
+      }
+    }
+  ]
+}
